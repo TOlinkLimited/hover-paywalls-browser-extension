@@ -8,7 +8,6 @@
 
 Access more content on the internet. Made so you can access important information, on topics like coronavirus and elections, with ease and without paywalls, subscription walls, ads, and tracking modules. \
 
-## Read about how it works here: https://medium.datadriveninvestor.com/how-to-bypass-any-paywall-for-free-df87832cbff7
 
 # Installation
 
@@ -20,9 +19,6 @@ Access more content on the internet. Made so you can access important informatio
 4. Enable Developer Mode.
 5. Drag the `dist` folder that is in `hover-extension-master` onto anywhere on the Chrome page to import it! (do not delete the folder afterwards)
 6. Enjoy!
-
-## Download from the Chrome Web Store (10,000+ Downloads + 5/5 Rating) (Down because Google does not allow bypassing paywalls):
-## https://chrome.google.com/webstore/detail/hover-paywall-bypasser/ajbennpkmbahpfdalicgaogjbfhngeok
 
 # How To Use / Demo
 Enable in Hover Extension in Google Chrome, and you should see it on the top right along with your other Chrome extensions. \
@@ -38,18 +34,3 @@ Make edits in src folder, and then run ```npm run build```. This will create the
 
 Current stable version: 2.2.7
 Dev version: 2.2.8
-
-## Next Steps
-Transfer into a Firefox extension. \
-Make Hover work for more sites. \
-Try to get back onto Google Chrome Store.
-
-## Notes
-
--The only permissions/settings the extension utilizes are for webRequest and cookie functionality, and nothing more.
-
--May not work on some websites.
-
-
-Disclaimer: 
-Do not use this extension to violate the terms of service/use of any website.
